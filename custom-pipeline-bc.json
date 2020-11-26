@@ -8,8 +8,8 @@
         "source": {
             "type": "Git",
             "git": {
-                "uri": "https://github.com/anandpavithran/DO288-apps.git",
-                "ref": "custom-pipeline"
+                "uri": "https://github.com/anandpavithran/jenkins-demo2.git",
+                #"ref": "custom-pipeline"
             },
             "contextDir": "books"
         },
